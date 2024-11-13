@@ -1,0 +1,8 @@
+flask
+pymupdf
+pdfplumber
+spacy
+nltk
+transformers
+sentence-transformers
+torch
